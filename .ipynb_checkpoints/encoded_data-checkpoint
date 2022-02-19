@@ -1,0 +1,329 @@
+,name,branch,year,gender,age,pt,st,ppl,spl,c_rate,w_rate,certified,12,sgpa,personality,behaviour,decison,adaptablilty,life,hobby,hstudy,match
+0,Naman Chaudhary,CEIT,4,1,20,1,8,1,3,3,3,1,3,3,4,4,3,3,3,4,0,1
+1,Utsav Mehrotra,CEIT,4,1,21,1,2,3,1,3,4,0,3,2,3,5,1,5,1,1,0,1
+2,Akshat Atray,CEIT,4,1,21,1,11,1,3,4,5,1,2,2,4,5,2,5,2,0,0,1
+3,Shivam Sharma,CEIT,3,1,20,1,7,2,3,2,3,0,2,3,4,4,4,3,4,0,0,1
+4,Aditya saini,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,1,6,1,3,3,4,0,2,2,4,5,3,5,2,4,2,1
+5,Harshit Kumar Singh,CEIT,4,1,21,3,4,1,0,4,2,1,3,2,2,5,1,4,2,5,0,1
+6,Shikhar Badola,CE,3,1,19,4,4,1,3,2,1,0,4,3,4,5,4,5,4,3,0,0
+7,Adarsh singh,CEIT,3,1,20,3,1,1,3,3,2,1,2,2,3,3,1,3,1,0,0,1
+8,Priyati Jain,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,5,6,3,1,3,2,1,2,2,4,4,2,5,2,0,3,1
+9,Ashutosh Negi,CE,3,1,21,6,1,0,2,3,2,0,2,3,3,3,5,4,2,5,0,1
+10,Tarang Garg,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,9,3,0,3,3,0,1,2,5,5,3,4,3,4,0,1
+11,Shreyansh Sahai,CE,3,1,20,6,1,0,3,4,3,0,1,2,3,4,1,4,3,6,0,1
+12,Yash varshney,CE,3,1,20,6,1,1,0,3,4,0,2,1,4,4,3,4,2,0,0,1
+13,Kunal Kishore,CEIT,4,1,21,1,2,1,3,4,5,1,2,2,4,4,2,4,2,0,0,1
+14,Yash Bhardwaj ,CE,3,1,21,1,2,1,3,3,3,1,1,2,4,5,2,4,3,0,1,1
+15,Utkarsh Pratap Singh ,CEIT,4,1,22,5,12,3,2,3,2,0,4,3,3,4,2,4,2,0,2,1
+16,Rishabh Nigam,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,12,1,3,3,1,0,1,2,3,4,3,5,3,0,0,1
+17,Vartika,CEIT,3,0,19,7,3,3,1,3,4,1,3,2,4,3,2,3,2,2,0,1
+18,Raj Tyagi,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,6,8,3,2,2,1,0,3,2,5,5,2,5,4,0,4,1
+19,Mansi Gupta,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,20,5,4,2,3,1,1,0,2,2,2,4,1,4,3,0,0,0
+20,Aditya Jaiswal,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,1,9,2,3,4,3,0,2,2,2,5,3,4,3,0,1,0
+21,Suhani Gupta,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,18,5,14,2,3,3,2,0,2,1,4,3,2,4,2,5,4,1
+22,Sanjana Gupta,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,20,5,14,2,3,1,1,0,2,2,4,3,3,4,4,0,0,1
+23,Shruti Dhir ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,5,6,2,3,3,2,0,2,2,3,4,3,3,3,5,0,1
+24,Ashutosh Tiwari,CEIT,3,1,19,5,7,3,2,2,1,1,2,2,1,2,1,5,1,0,0,1
+25,Akash pathak,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,5,2,3,2,4,3,1,2,2,4,5,1,4,2,0,0,0
+26,Sagar Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,3,5,1,3,4,1,1,2,2,4,3,2,3,3,1,0,1
+27,Anant Maitrey ,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,20,3,5,1,3,3,2,0,2,2,2,3,4,5,4,1,0,1
+28,Lavkush Kaithwas,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,5,5,3,2,1,1,0,5,2,1,1,1,1,1,0,0,1
+29,Aditi Agrawal ,CEIT,3,0,21,1,3,1,3,2,2,0,4,2,3,3,2,3,4,0,0,1
+30,Mayank Kumar Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,21,1,2,1,3,3,3,0,2,2,2,4,2,4,3,0,1,0
+31,Yashika Tonk,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,18,3,11,1,2,3,1,1,3,2,3,4,2,4,2,3,0,1
+32,Prince Kumar Chaudhary ,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,19,1,2,1,3,4,3,0,2,2,3,4,2,4,3,0,0,1
+33,Prakhar Sharma ,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,20,3,4,0,0,3,2,0,2,3,1,5,1,5,1,6,0,1
+34,Abhinav singhal,CEIT,3,1,19,3,3,3,1,4,1,1,2,2,2,5,3,2,3,0,0,0
+35,Varun Rana,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,3,8,1,2,2,1,0,2,2,2,3,2,4,1,0,0,0
+36,Shreyash Pandey,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,8,2,3,3,1,0,2,2,3,4,2,3,3,0,0,1
+37,Shubhankar Mukherjee,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,5,9,2,3,2,1,0,2,2,2,4,3,3,3,1,0,1
+38,Gaurav Rajput ,CEIT,3,1,22,5,7,3,2,3,2,1,4,3,3,3,1,5,2,0,1,1
+39,Akash Arya,CEIT,3,1,20,4,4,1,2,3,1,0,2,3,4,4,3,4,3,4,3,1
+40,Shashank Varshney,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,5,9,3,1,2,2,0,1,2,3,3,1,3,2,0,1,1
+41,Jatin Sharma,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,10,1,3,1,1,0,1,2,5,5,1,5,2,3,0,1
+42,Manik Grewal,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,2,3,1,3,3,2,0,1,1,3,5,2,5,3,0,2,1
+43,Varun Rawal,"Computer Science( CS- AI/ML, CS - Data Science etc)",4,1,19,5,6,3,1,3,3,1,1,2,3,4,3,5,3,0,1,0
+44,Ritik Sangwan,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,5,8,1,3,3,2,0,1,2,4,3,3,4,2,0,0,1
+45,Anshul Yadav,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,20,8,5,3,2,1,2,0,2,1,4,4,3,3,3,3,1,0
+46,Anant Garg,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,10,3,2,2,1,0,1,1,3,3,3,3,3,3,0,1
+47,Nishant Kumar Tiwari,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,3,1,2,1,4,4,1,1,1,5,5,1,4,3,0,2,0
+48,Yugal Panchal,CE,3,1,21,13,3,1,2,3,3,0,2,2,3,4,3,5,3,4,0,1
+49,Preetivarshney,CE,3,0,21,1,3,1,3,3,3,1,2,2,4,4,3,5,2,3,2,1
+50,Kshitij Garg,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,19,7,1,1,3,3,2,1,2,3,3,5,2,5,3,0,1,1
+51,Vimal Bajpai,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,14,5,3,2,4,4,0,3,3,5,5,5,5,2,4,1,0
+52,Ujjawal Srivastava,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,20,2,4,3,0,4,3,1,2,3,3,5,3,4,3,0,0,1
+53,Prakhar tandon,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,2,3,1,3,2,1,0,1,2,2,2,3,5,5,0,0,1
+54,Ajay Pratap Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,1,2,1,3,2,2,0,3,2,3,4,4,2,3,1,0,1
+55,Jatin Tyagi,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,2,1,3,1,3,3,0,1,2,3,4,2,4,2,0,2,1
+56,lakshay Agarwal ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,2,5,3,3,2,1,0,2,2,2,3,2,4,5,1,0,0
+57,Nikhil gautam,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,2,11,3,0,4,4,0,3,1,3,5,1,4,2,1,1,0
+58,Sameeksha purwar ,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,0,20,1,2,3,1,2,3,1,3,2,5,4,3,5,2,0,0,0
+59,Nitish kumar,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,17,2,5,3,1,3,1,0,3,1,2,4,4,4,4,0,0,1
+60,Tanu Anuria,CEIT,4,0,20,7,8,3,0,4,3,0,2,3,4,5,3,3,2,5,1,1
+61,Mohit Kumar,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,2,11,0,1,3,4,0,3,2,2,4,2,3,3,1,1,1
+62,Rachit Sharma,CE,3,1,19,1,3,1,3,4,2,0,2,2,2,3,1,4,3,0,0,1
+63,Ishika Kulshrestha,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,0,20,1,7,1,2,2,2,1,4,2,3,4,2,4,2,0,0,1
+64,Ashish kumar,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,12,2,3,5,5,0,1,2,5,5,3,3,5,1,0,0
+65,Priyanshu,CE,3,1,22,2,3,1,3,3,3,1,1,2,5,4,2,5,2,0,0,1
+66,Jahnvi Srivastava,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,5,2,3,2,4,3,0,1,1,3,4,2,4,1,4,1,1
+67,Prafful Gautam,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,5,6,3,2,2,2,0,3,3,3,3,3,3,3,0,1,0
+68,Aditi Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,20,2,1,0,2,3,1,0,2,2,4,5,3,3,3,3,0,1
+69,Sarthak Mittal,CEIT,3,1,19,1,3,1,3,2,2,1,2,3,2,3,3,2,3,1,0,0
+70,Abhinav Gangwar ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,3,6,1,2,4,4,0,4,2,3,5,1,5,1,0,0,1
+71,Ayushi Agrawal ,CEIT,3,0,21,1,3,1,3,3,3,0,3,2,3,3,2,3,3,0,0,1
+72,Aayush Gupta,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,8,9,2,3,3,1,0,1,1,3,3,2,4,3,0,1,1
+73,Anuj Yadav,CEIT,4,1,21,5,3,1,3,3,2,1,3,2,3,3,2,4,3,1,0,1
+74,Kartik Saini,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,3,1,3,2,1,0,2,1,2,4,2,3,3,4,1,1
+75,Aditya kumar,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,1,2,3,2,3,4,0,2,3,4,5,4,4,2,0,2,1
+76,Anurag Bhardwaj,CE,2,1,19,4,4,1,0,2,1,0,2,1,4,5,4,5,1,0,0,1
+77,Aryan Gupta,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,1,2,3,2,3,1,0,2,2,5,5,3,4,3,0,0,1
+78,Devang Dubey ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,11,1,3,1,2,0,2,2,2,4,1,5,3,0,4,1
+79,Abhishek tiwari,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,1,2,1,0,3,2,0,2,2,3,5,1,4,3,0,1,1
+80,Ishan,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,5,8,3,2,1,1,0,1,1,3,4,2,3,3,0,0,1
+81,Abhishek Yadav,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,21,11,2,1,3,5,3,0,4,3,3,4,3,4,2,0,0,1
+82,Shiva Kant Mishra,CEIT,3,1,20,1,2,2,0,4,3,0,3,3,5,5,5,4,3,4,0,1
+83,Anurag yadav,CEIT,4,1,22,5,2,3,1,3,2,1,3,3,4,4,2,3,3,3,0,1
+84,Anurag Dubey,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,14,6,2,3,1,1,0,2,2,4,4,4,3,2,5,0,1
+85,Aniket Jain,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,2,6,3,0,2,2,0,3,2,2,3,3,3,4,2,0,0
+86,Amol Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,3,5,0,1,4,3,1,4,3,3,4,3,3,3,1,0,1
+87,Aryan Tyagi ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,4,4,1,3,2,1,0,2,1,3,4,1,4,3,4,0,1
+88,Aditya Kumar Ojha,CE,3,0,20,5,1,3,1,3,2,1,3,2,3,4,3,5,3,5,1,0
+89,Madhav Agarwal,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,20,4,4,1,3,3,2,0,1,2,2,4,2,4,4,1,0,1
+90,Abhishek Yadav,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,5,6,2,3,2,1,0,1,2,4,4,3,2,3,0,0,1
+91,Keshav Allawadi,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,20,4,4,1,3,2,2,0,1,2,3,3,1,3,4,4,3,1
+92,Shubham Kumar Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,20,4,4,1,3,3,2,0,3,2,2,4,2,3,2,3,4,1
+93,Archit,CEIT,4,1,21,3,2,0,3,4,3,0,2,2,3,4,2,4,2,0,0,1
+94,Vikas Pargai,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,20,2,1,3,1,3,4,1,1,2,5,5,1,4,3,6,0,1
+95,Abhilash Agnihotri,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,2,1,2,3,3,2,0,2,1,2,5,2,5,3,2,0,0
+96,Augutsya pandey,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,6,5,0,3,3,4,1,4,3,4,4,4,4,2,0,0,1
+97,Archit Pal,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,6,5,0,3,4,3,0,2,2,2,5,3,5,3,0,0,1
+98,Girjesh kumar,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,9,2,2,2,1,1,0,3,2,4,4,2,1,5,0,0,0
+99,Arpit Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,1,5,2,3,1,1,0,3,2,2,3,2,4,3,1,0,1
+100,Abhinav kumar Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,9,12,2,3,2,1,0,2,2,4,5,4,5,1,3,0,1
+101,ABHAY CHAUHAN,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,5,6,2,3,2,1,0,2,2,3,5,3,2,3,5,0,1
+102,AYUSH SINGH,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,2,5,1,3,1,1,1,2,1,2,3,2,5,3,0,1,0
+103,Krati Agrawal ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,18,5,1,3,1,1,2,0,1,1,3,4,4,3,4,5,0,0
+104,Aayush tyagi,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,1,2,3,1,1,1,0,2,2,4,4,4,4,3,2,2,1
+105,Anushka Gupta,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,18,2,1,3,2,1,1,0,2,2,5,5,3,4,3,3,0,1
+106,Alakshendra,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,22,5,10,3,2,1,1,0,4,3,3,3,3,3,1,4,0,1
+107,Abhishek pandey,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,1,2,3,2,3,3,0,1,2,1,3,3,5,2,4,0,0
+108,Ansh verma ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,5,11,3,2,2,1,0,1,2,4,4,3,4,3,5,0,1
+109,Avnish Dayal,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,10,1,2,3,3,2,0,2,2,4,4,2,3,2,1,0,1
+110,Nivedita srivastava ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,2,1,2,3,3,1,0,2,2,4,3,3,5,4,1,1,1
+111,Abhinav Gill,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,1,10,2,3,3,2,0,2,2,2,3,3,3,4,0,0,0
+112,Siddharth Jain ,CEIT,3,1,20,7,9,3,0,3,3,0,3,3,2,4,3,4,4,1,3,1
+113,Shishir Dwivedi,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,2,1,3,2,3,2,0,1,2,5,2,3,5,1,0,0,0
+114,Yashika Tonk,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,18,3,11,1,2,3,1,1,3,2,3,4,2,4,2,3,0,1
+115,sahil gupta,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,5,1,2,3,2,3,1,3,2,4,4,3,3,3,0,0,1
+116,gautmi khanna,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,20,1,3,2,1,2,3,0,1,1,2,5,3,3,3,4,0,0
+117,Lalit Mohan Tiwari,CEIT,4,1,21,3,8,1,0,3,1,0,2,3,3,5,1,5,3,2,0,0
+118,Nishant Khatri,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,6,10,0,2,3,2,0,1,2,3,4,2,2,3,0,0,1
+119,Mohit Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,5,2,3,2,1,0,1,1,4,4,3,4,3,0,1,0
+120,Ayush Kumar,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,5,2,2,3,3,1,0,2,2,2,4,2,4,2,1,2,1
+121,Ayush Gupta,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,10,5,1,3,4,3,1,3,2,2,4,1,4,2,4,0,1
+122,Ishaan Choudhary,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,2,5,3,2,1,1,0,2,3,2,3,2,4,4,1,0,1
+123,Rohan Choudhary,CEIT,4,1,20,3,14,3,0,4,1,0,1,2,3,5,1,5,3,1,0,1
+124,Gaurav Bisht,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,1,3,2,5,1,0,1,2,1,5,1,5,3,0,0,1
+125,Archit Sangal,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,3,3,2,4,3,1,1,1,3,4,3,3,2,1,2,1
+126,Sakshi Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,20,3,2,3,2,3,1,0,1,3,5,2,3,1,2,5,0,0
+127,Udita Talwar ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,18,3,5,2,3,3,2,0,1,2,2,4,3,4,3,3,0,0
+128,Arush Vashishtha,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,2,5,0,3,3,3,1,2,2,5,4,2,5,2,0,0,0
+129,Nakshatra Mittal,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,2,3,1,3,4,4,0,2,2,4,5,4,5,3,1,1,1
+130,gourav sharma,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,7,2,1,3,2,0,2,3,5,5,4,5,4,0,0,1
+131,Atul dagar,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,3,5,1,3,3,2,1,1,2,3,4,2,4,1,0,5,1
+132,AMBER MISHRA,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,3,5,2,1,4,1,1,2,2,4,5,2,4,3,0,4,1
+133,Aastha Gupta,CE,3,0,19,1,13,1,3,3,3,0,1,2,5,3,1,4,3,3,1,1
+134,Kajal Chaudhary,CE,3,0,20,1,13,1,3,3,3,0,2,1,4,3,3,4,3,3,3,1
+135,Jatin Chauhan,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,2,1,3,2,4,2,0,1,2,4,4,1,4,2,3,0,1
+136,Gurmeet Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,21,8,1,1,3,2,1,0,4,2,4,4,3,3,3,0,0,0
+137,Mayank Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,9,1,1,3,1,1,0,3,2,3,3,3,3,3,0,0,1
+138,Nishant Tiwari,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,9,5,2,1,4,5,0,2,2,3,4,2,5,2,0,0,0
+139,AMBER MISHRA,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,3,5,2,1,4,1,1,2,1,4,5,2,4,3,0,4,1
+140,Amarjeet Gupta ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,3,5,2,3,3,1,1,3,1,5,5,3,4,1,0,1,0
+141,Mohd Abuzar Ali,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,20,5,1,0,3,3,3,1,2,2,5,5,2,5,2,1,0,1
+142,Faizan Saifi,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,20,1,2,0,3,3,2,0,1,2,5,3,3,3,2,0,1,0
+143,Sami Khan,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,21,1,3,2,1,3,2,0,2,2,5,5,1,5,3,2,0,1
+144,Kartik Saroha,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,3,5,1,3,5,4,1,3,2,4,4,3,4,2,4,0,0
+145,MOHD Umair,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,6,5,3,2,2,2,0,3,2,4,3,3,5,5,0,0,0
+146,Nitish Yadav,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,6,11,1,3,3,3,0,3,2,4,5,4,5,1,0,0,1
+147,Akshay Tomar,CEIT,4,1,22,1,7,3,0,3,4,1,2,2,2,3,2,4,3,0,1,0
+148,Arpit jain,CEIT,3,1,21,3,14,1,0,3,3,1,2,3,3,3,3,3,4,1,1,1
+149,Aradhy Tripathi,CEIT,3,1,21,1,10,1,3,4,3,1,2,3,4,5,3,5,4,0,3,1
+150,Karan bisht,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,1,7,3,1,2,1,0,3,2,1,5,1,5,5,1,0,0
+151,Prakhar Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,13,6,1,2,4,3,0,3,3,3,4,2,4,5,0,0,1
+152,Gitansh Kumar,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,5,11,3,2,4,1,1,2,2,3,3,2,3,3,4,0,1
+153,Nishant Sinha ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,6,10,1,3,1,1,0,3,4,3,5,4,3,3,5,0,1
+154, Om Singhal,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,1,2,2,1,3,2,0,2,1,3,4,3,5,3,1,0,0
+155,HARSH DIGGAL,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,3,10,1,3,4,1,0,3,2,1,5,2,4,3,1,1,1
+156,Ayushi Gupta ,CEIT,3,0,20,4,5,2,3,3,2,1,1,2,3,4,3,4,3,3,1,0
+157,Harshit Dwivedi,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,2,1,1,0,2,1,0,3,1,4,4,2,4,2,1,0,1
+158,Ishika verma,CEIT,3,0,22,2,1,3,2,3,3,1,2,2,4,4,3,3,3,2,0,0
+159,Astha Rai,CEIT,3,0,20,2,1,3,2,3,3,1,2,2,3,2,2,3,3,2,0,1
+160,Abhay kumar pandey,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,8,3,1,3,3,1,0,3,3,3,5,1,5,5,1,0,1
+161,Suraj bhatt,CEIT,3,1,19,1,3,1,2,3,3,0,1,2,3,3,3,4,3,0,0,1
+162,Samarpit Dua,CEIT,3,1,20,3,1,1,3,4,3,1,1,1,4,4,2,5,2,1,0,1
+163,Geetanjali Sharma,CE,3,0,19,5,1,1,3,3,2,1,1,2,4,3,2,4,3,3,0,1
+164,Shivani Rawat,CE,3,0,20,1,2,3,1,3,3,1,2,2,5,4,2,4,2,4,0,0
+165,Nandani Agarwal,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,4,4,2,3,2,1,0,1,2,2,3,3,3,3,2,0,1
+166,Mansha Marwaha,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,4,4,3,1,1,1,0,2,2,3,3,3,2,3,1,3,1
+167,MRADUL PRATAP,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,4,4,2,2,1,1,0,3,3,1,5,5,1,5,0,0,1
+168,Neha Mishra,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,4,4,1,3,3,1,0,2,2,4,3,3,3,3,3,2,1
+169,Divyanshu Tripathi,CEIT,3,1,21,3,1,1,3,4,4,0,4,2,3,4,1,4,2,0,0,1
+170,Dikshant Sharma,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,11,3,2,1,3,2,0,1,2,3,3,3,4,1,0,0,1
+171,Prajjwal Maurya,CEIT,4,1,22,5,2,3,2,5,1,1,2,2,3,5,3,3,2,0,0,1
+172,Himani yadav,CEIT,3,0,19,3,7,2,3,3,1,0,3,3,3,4,3,4,3,1,2,0
+173,Gagan Prakash ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,3,6,1,1,3,2,0,3,3,4,5,1,4,3,0,0,1
+174,Nishant Kumar ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,3,1,2,1,3,1,0,3,2,3,4,3,4,3,4,1,1
+175,Shreyansh Gupta,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,20,1,7,1,1,4,2,1,1,2,4,4,4,4,2,0,0,1
+176,Amit kumar,CEIT,3,1,19,1,11,2,3,4,3,0,3,3,3,3,3,3,3,0,1,1
+177,Abhishek Maurya,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,6,10,2,3,1,1,0,3,2,3,4,2,3,3,2,0,1
+178,Khushi Sharma ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,5,4,2,3,4,1,0,2,2,4,4,2,3,3,2,1,1
+179,Sachin,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,19,3,1,1,3,4,3,1,2,1,3,4,4,3,3,1,0,1
+180,Akshaj Agarwal ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,9,2,3,3,1,1,2,2,3,4,2,3,3,0,1,1
+181,Rohit sharma,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,19,3,1,3,1,4,2,1,2,2,3,3,3,3,3,0,0,1
+182,Abhinav Singh,Computer Science Engineering,3,1,21,3,1,0,1,4,3,1,2,3,1,3,3,3,3,0,0,1
+183,Anant Tyagi,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,1,6,3,0,4,3,0,1,1,5,4,3,5,3,2,1,1
+184,Devansh Bajaj,CE,3,1,22,1,2,3,3,3,5,1,4,3,2,4,3,4,2,4,0,1
+185,Ishaan Mittal,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,6,3,2,1,3,2,0,2,2,3,4,1,3,3,2,0,0
+186,Kishan Jayan ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,4,2,3,3,1,0,2,2,3,3,2,4,3,0,0,1
+187,Damini Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,4,4,2,3,2,1,0,3,2,3,5,3,3,3,0,2,1
+188,Khyati Agarwal,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,4,4,2,3,2,1,0,2,2,3,3,3,3,3,0,0,1
+189,Abhishek singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,3,6,1,0,3,3,0,3,2,4,4,3,5,4,0,1,0
+190,Ashish Kumar,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,6,9,1,2,1,1,0,4,2,1,1,1,1,1,3,1,1
+191,Dewank Rastogi,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,3,1,1,3,4,4,0,1,2,4,3,3,4,2,4,0,1
+192,Darshika Gupta,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,18,1,4,2,3,3,3,0,2,1,4,4,3,3,3,3,0,0
+193,Mohit Singh Deo,Computer Science Engineering,2,1,18,5,3,1,3,3,1,0,2,2,3,4,1,3,4,0,0,0
+194,Vanshika Tyagi,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,0,20,5,1,1,3,3,2,1,2,3,3,4,3,5,3,3,1,1
+195,Sarthak Negi,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,19,1,5,3,1,3,3,0,3,2,3,4,2,4,2,0,0,0
+196,Kanika singhal,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,0,22,1,9,3,1,3,3,1,3,4,4,4,3,3,3,1,2,1
+197,Minakshi rakesh Mishra,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,0,23,1,5,1,3,3,1,0,3,3,3,3,5,5,4,0,2,0
+198,Vedant Bhatt,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,19,2,3,0,3,3,3,0,1,1,2,3,3,2,2,5,0,1
+199,Abhishek Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,1,4,2,1,1,1,0,3,2,3,5,2,1,2,0,2,0
+200,Punj Goel,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,3,6,1,3,3,1,0,2,2,3,4,1,4,4,0,1,1
+201,Mohammed Fahad,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,13,2,1,3,3,2,0,2,2,4,4,2,4,2,0,0,0
+202,Hardik Sharma,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,12,8,2,1,2,1,0,1,2,4,5,3,4,3,0,0,1
+203,Ujjawal sharma,CEIT,4,1,21,5,1,3,1,3,3,1,2,2,4,4,4,4,3,2,0,1
+204,Vishal Kumar,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,18,5,9,3,2,3,3,0,2,2,3,4,4,3,4,0,1,1
+205,Mayankesh Mishra,CEIT,4,1,21,1,13,3,0,4,5,1,2,2,4,3,4,4,2,0,0,0
+206,Harsh Verma,CE,3,1,20,13,12,3,1,3,4,0,3,3,4,5,1,5,4,0,0,1
+207,Deepanshu tomar ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,12,3,1,3,1,1,0,2,3,3,5,2,4,5,0,1,0
+208,Aditya Shankar Tripathi ,CE,2,1,19,6,2,2,2,4,1,0,3,2,3,4,1,2,1,1,0,1
+209,Sanchika Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,0,19,1,7,1,3,3,4,0,2,3,5,4,1,5,3,4,0,1
+210,Dikshant Gautam,CEIT,4,1,21,2,1,3,2,3,4,1,3,3,3,5,3,4,3,1,3,1
+211,Richa Srivastava,CEIT,4,0,21,2,13,0,3,4,4,1,2,2,3,4,2,5,3,2,0,0
+212,Kartikey Agarwal,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,5,3,1,3,3,2,0,1,2,3,4,2,4,3,0,2,1
+213,Asmit Verma,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,1,6,1,3,2,1,0,3,2,3,3,2,4,3,2,0,0
+214,Aryan Parashar,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,3,3,0,3,3,0,3,2,5,5,4,5,1,4,0,0
+215,Anshika Saxena,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,0,20,1,4,0,3,3,2,1,1,1,3,4,3,4,3,2,1,0
+216,Mishra Pranjal Santoshkumar,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,3,1,3,3,1,0,2,2,4,5,3,5,2,3,0,1
+217,Raman Gupta,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,19,1,4,3,1,3,3,1,3,2,2,2,4,3,3,0,1,1
+218,Harsh Mishra ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,2,1,3,2,1,1,0,1,2,3,5,1,5,4,0,0,1
+219,Mo Adnan,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,2,1,2,3,3,2,0,3,3,2,3,3,3,3,0,0,1
+220,Harsh Jaydeep,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,3,3,0,2,3,1,0,4,3,3,5,3,3,3,0,0,1
+221,Ayush Srivastava,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,1,6,1,2,4,3,0,1,2,3,5,2,4,3,0,0,0
+222,Pranshu mishra,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,1,1,3,3,1,0,2,2,2,5,1,3,3,0,0,1
+223,Prahlad Gupta,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,3,1,1,3,3,3,0,3,2,4,5,3,4,2,1,0,0
+224,Deepanshu Sharma,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,1,6,3,0,3,2,0,2,2,3,3,2,4,3,1,0,1
+225,Deepak Kumar Maurya,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,1,2,2,3,3,3,0,4,3,2,4,3,3,3,0,0,1
+226,Dishu kumar Sharma,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,12,5,3,0,4,3,0,2,2,3,4,3,4,4,0,0,1
+227,Suryansh Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,2,3,0,2,2,2,0,2,2,2,5,4,5,1,1,1,1
+228,Rahul Prajapati,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,3,1,3,1,2,1,1,4,3,4,3,2,4,3,0,0,1
+229,Sanjana Jain,CEIT,3,0,20,1,5,3,1,3,4,1,1,1,4,5,2,3,3,2,1,1
+230,Mohit Singh Chauhan,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,1,10,2,3,3,3,0,2,2,3,3,2,4,3,0,0,1
+231,Rishabh Tiwari,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,22,3,1,3,3,5,5,0,2,2,5,4,3,4,2,0,0,1
+232,HARSH TOMAR,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,10,1,1,0,3,2,0,2,2,2,4,2,3,2,3,0,1
+233,Ishita Verma,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,4,8,3,2,3,2,0,1,1,4,4,3,3,3,3,0,1
+234,Deepak Yadav,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,20,1,4,0,3,3,3,1,3,2,2,5,1,5,3,1,0,1
+235,Anuj Rathour,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,3,5,2,3,2,1,0,2,2,4,4,2,3,4,0,0,1
+236,Anukriti Bhardwaj,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,2,1,2,0,2,1,0,1,2,3,4,2,4,3,3,0,0
+237,Aashutosh Jha ,CEIT,3,1,19,5,4,3,2,3,2,1,3,3,3,3,3,3,3,1,0,0
+238,Anushruti,CEIT,4,0,21,12,7,3,2,3,2,1,3,3,5,5,3,5,2,0,4,1
+239,Arun Kumar Yadav,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,1,4,2,3,2,2,0,2,1,5,5,3,5,3,0,0,1
+240,Preetam Kumar Chaurasiya,CEIT,3,1,20,1,10,2,3,3,3,1,0,3,3,4,3,3,3,2,1,1
+241,Anas Ansari,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,4,2,3,3,3,0,4,2,3,5,4,3,5,0,0,1
+242,Anshuman Tyagi,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,4,4,2,3,2,1,0,1,1,3,3,3,3,3,1,0,0
+243,Ayush Kumar,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,3,1,1,1,3,2,0,3,2,2,4,3,4,2,1,0,1
+244,Divyarth Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,12,1,3,2,1,0,3,2,3,5,3,3,3,0,1,1
+245,NAVAM SHARMA,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,1,2,2,1,4,3,0,2,2,2,3,3,3,3,0,1,1
+246,Radhika Gupta ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,11,6,1,3,2,1,0,2,3,3,3,4,3,4,0,0,1
+247,Subhansh Dwivedi,CE,3,1,19,1,7,1,3,3,2,1,2,2,3,4,2,3,3,0,0,0
+248,Khushi Agrawal ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,13,9,0,3,3,1,1,2,2,3,5,2,3,2,2,0,1
+249,Jyesh Batra,CEIT,4,1,21,1,2,1,3,4,4,1,1,2,2,5,1,5,3,0,1,0
+250,Ankit singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,19,2,2,3,3,3,1,0,4,3,2,5,1,1,2,0,0,1
+251,Arvind Singh Yadav,CEIT,3,1,19,1,2,1,3,3,3,1,3,2,3,3,4,4,2,0,0,0
+252,ADITI SRIVASTAVA ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,9,6,2,3,4,4,0,1,2,4,4,2,3,2,5,2,1
+253,Divyanshu Tripathi,CEIT,3,1,21,3,1,1,0,4,4,1,4,2,3,4,1,4,2,0,0,1
+254,Piyush Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,3,4,2,3,1,1,0,3,2,2,3,2,3,4,1,0,1
+255,Mohit Sharma,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,19,1,2,3,1,4,5,0,2,3,5,3,4,5,1,2,1,1
+256,Uday Tyagi,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,1,20,1,2,1,3,3,3,1,1,2,3,3,3,3,3,1,0,1
+257,Bharti,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,17,6,3,2,3,1,1,0,2,1,2,4,3,4,3,0,2,1
+258,Vedang Singh,Information Technology,3,1,23,2,1,2,0,3,4,0,2,2,2,4,4,3,4,5,4,0
+259,Priyansh garg,Computer Science Engineering,3,1,20,1,3,3,2,3,3,1,2,2,5,5,5,5,3,5,0,1
+260,Dolly Bindal ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,18,5,8,3,2,4,3,0,2,2,5,4,2,4,2,0,1,1
+261,Aditya Dubey ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,3,1,0,2,3,3,0,3,2,4,4,2,4,3,1,0,1
+262,Aditya Kumar Srivastav,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,4,4,2,3,1,1,0,3,4,3,3,3,3,3,5,2,0
+263,Utkarsh Rastogi,CE,3,1,21,1,3,3,1,2,1,1,2,2,3,4,2,4,2,5,0,1
+264,Ayush verma,CEIT,3,1,21,1,2,0,3,3,3,0,3,2,4,3,1,4,3,2,0,0
+265,Jatin Kumar,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,17,5,7,2,3,2,1,1,2,1,3,4,3,3,1,0,0,1
+266,Gaurank Joshi,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,5,7,1,3,2,1,1,2,1,4,3,2,3,3,0,1,1
+267,Ankit Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,2,1,2,1,1,1,0,2,2,3,4,1,4,1,0,2,1
+268,Ankur Tiwari,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,1,2,2,3,3,2,0,2,2,3,4,3,3,4,0,1,0
+269,Deepak Kumar Soni,CEIT,3,1,19,1,2,3,1,3,3,1,3,2,3,4,2,4,2,0,1,0
+270,Kuldeepak Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,6,2,3,3,1,1,3,2,3,3,3,4,4,0,1,1
+271,Deepanshu Nirvan,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,5,6,1,3,3,2,0,1,1,4,3,2,4,2,0,0,1
+272,Himanshu Sikarwar,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,3,12,2,3,3,1,0,4,3,3,3,4,2,3,0,0,1
+273,Simran Varshney,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,1,7,2,3,3,3,0,2,2,3,4,4,3,5,2,0,1
+274,Sparsh Akhaury,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,1,7,2,1,3,3,0,2,2,5,4,3,4,3,4,0,1
+275,Shruti Yadav,"Computer Science( CS- AI/ML, CS - Data Science etc)",3,0,19,14,3,1,3,3,3,1,1,2,3,1,3,3,4,1,0,1
+276,Akanksha Singh ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,6,8,2,3,3,4,1,2,3,3,5,2,4,2,0,3,1
+277,Dev bhardwaj,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,11,6,2,0,2,1,0,2,3,3,3,4,3,3,0,3,1
+278,Prahlad Gupta,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,3,1,1,3,4,1,0,3,2,5,4,1,4,3,4,0,0
+279,Sameer Jha,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,3,1,1,3,4,1,1,2,2,4,4,4,3,2,0,0,0
+280,Shivanshu Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,9,1,2,3,3,3,0,3,2,4,4,3,5,3,0,0,1
+281,Punj Goel,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,3,5,1,3,3,1,0,2,2,3,3,2,4,3,0,0,1
+282,Shreya Sharma,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,1,14,2,1,4,4,1,1,2,5,5,3,5,2,4,1,1
+283,Tanya mehta,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,20,1,3,2,3,2,2,0,1,2,3,4,4,3,3,3,0,1
+284,Kartik Saroha,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,3,1,3,5,4,1,2,2,4,4,2,4,3,4,0,1
+285,Om Singhal,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,1,2,1,2,3,2,0,2,1,3,3,4,5,3,4,0,0
+286,Sejal Garg,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,20,8,5,2,3,4,3,0,2,2,4,5,3,3,3,2,2,1
+287,RITVIK JAIN,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,14,6,0,2,4,2,0,2,2,4,5,2,4,3,0,0,1
+288,MOHD Umair,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,6,5,3,2,2,3,0,3,2,3,3,3,3,3,0,0,0
+289,Yash Bansal,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,8,5,2,3,4,3,0,1,1,4,3,1,5,1,2,2,1
+290,Vraddhi verma,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,6,14,2,2,1,1,0,3,3,5,5,3,4,3,1,0,1
+291,Harshit Dwivedi,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,7,1,1,0,3,1,0,3,2,4,4,2,4,1,1,0,1
+292,Saujanya Jain,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,6,5,3,0,2,1,0,1,1,3,4,4,3,4,0,0,1
+293,Gourav sharma,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,7,7,1,3,3,2,0,2,3,5,5,5,5,5,0,0,1
+294,Jatin kumar,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,17,5,7,2,3,2,1,1,2,1,3,4,3,4,3,0,0,1
+295,Yash Saxena,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,4,12,1,2,3,1,0,2,2,3,5,1,3,4,0,0,0
+296,Shivanshu Baranwal,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,1,2,1,2,4,3,0,4,2,4,3,4,5,2,3,0,0
+297,Yash Kumar Sharma,Computer Science Engineering,2,1,18,1,2,2,3,3,3,0,3,2,4,5,2,4,1,0,1,1
+298,Mohammad Arif Alvi,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,5,6,2,1,4,1,0,2,1,4,4,5,4,5,1,1,0
+299,Shivarchan Sharma,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,4,4,2,3,2,2,0,1,2,3,4,2,4,3,2,1,1
+300,Shubh Khandelwal ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,8,4,0,2,4,3,0,2,1,3,5,4,4,3,1,1,0
+301,Sagar Srivastava,Computer Science Engineering,2,1,20,1,2,1,0,2,1,0,2,3,3,3,3,3,3,0,0,1
+302,Priyansh bhardwaj ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,1,14,1,2,3,1,0,2,2,3,5,3,5,3,5,2,1
+303,Vishal gupta,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,9,4,2,3,2,1,0,4,2,3,3,3,4,3,6,1,1
+304,Zubain Ahmad,Computer Science Engineering,2,1,20,6,12,0,0,2,3,0,1,1,2,3,3,2,3,1,0,1
+305,Nandani Agarwal,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,4,4,2,3,3,1,0,1,2,2,3,3,3,3,2,0,1
+306,Suraj Verma,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,1,6,1,3,1,1,0,3,2,3,4,3,3,3,2,1,0
+307,Neha Mishra,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,4,4,1,3,3,1,1,2,2,3,3,4,3,2,3,0,1
+308,Shruti Nigam,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,1,2,0,2,3,2,0,1,2,4,4,4,2,3,5,2,1
+309,Navam sharma,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,3,2,2,1,3,3,0,2,2,3,4,4,4,4,1,1,1
+310,Piyush Verma,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,3,3,2,3,3,1,0,2,2,3,5,1,3,3,5,0,1
+311,HARSH DIGGAL,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,3,6,1,3,3,1,0,3,2,1,4,3,5,3,1,1,1
+312,SHRI OM PANDEY,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,3,1,1,3,3,2,0,2,2,4,4,4,4,3,1,0,1
+313,Ratan swarnkar ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,21,7,14,2,0,2,1,0,4,2,4,5,4,5,3,0,2,1
+314,Saksham Agrawal,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,5,3,2,0,2,1,0,2,2,3,4,2,3,4,1,0,1
+315,Rishabh Maurya ,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,1,3,1,2,4,3,0,3,3,3,4,5,4,2,0,1,1
+316,Shagun Kesarwani,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,20,3,4,0,2,2,1,0,3,2,4,2,2,3,2,5,0,0
+317,Tanisha Verma,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,1,3,2,1,3,2,0,1,2,3,4,3,3,3,2,0,0
+318,Uddbhav Mathur,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,3,7,3,2,3,3,0,2,3,5,4,3,4,2,0,0,0
+319,Himanshu Sikarwar,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,1,3,2,3,4,1,0,4,3,2,3,2,2,2,0,0,1
+320,Shailesh Singh,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,18,3,1,1,2,3,1,0,1,2,3,5,3,4,4,1,0,1
+321,Mo Adnan,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,2,1,2,1,3,3,0,3,3,3,3,3,3,3,0,1,1
+322,Tanisha Jindal,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,0,19,5,4,2,3,2,1,0,2,2,3,4,2,4,3,1,0,1
+323,Sanskar garg,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,14,3,2,1,1,1,1,2,2,4,5,5,4,4,0,0,0
+324,Sumit Jaiswal,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,12,5,2,1,3,3,0,3,3,3,3,3,3,3,1,0,0
+325,Kapil Panwar,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,20,1,2,2,3,1,3,0,3,2,1,4,3,3,3,1,1,0
+326,Santosh Pandit,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,19,1,3,2,3,3,2,0,2,2,3,4,3,3,3,1,0,1
+327,Dev Tayal,"Computer Science( CS- AI/ML, CS - Data Science etc)",2,1,17,3,1,1,3,2,1,0,1,1,5,3,1,2,3,0,0,0
