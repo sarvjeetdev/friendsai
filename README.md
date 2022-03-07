@@ -1,1 +1,1 @@
-# friednsai
+# friendsai
